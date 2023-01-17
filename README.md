@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Click to access the  project
+[https://cosmic-pudding-b929af.netlify.app](https://cosmic-pudding-b929af.netlify.app)
 
 ## Available Scripts
 
